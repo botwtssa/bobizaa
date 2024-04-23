@@ -137,9 +137,9 @@ text: text,
 contextInfo: {
 externalAdReply: {
 title: 'L9AIDE BOT🤖',
-body: " bot watssap",
+body: " B O B I Z A ",
 thumbnailUrl:'https://telegra.ph/file/c9139a996a8ef903572fc.jpg',
-sourceUrl: '    L_9AIDE BOT' ,
+sourceUrl: 'https://l.instagram.com/?u=https%3A%2F%2Fyoutu.be%2FLR21KX42n0o%3Fsi%3Dx4P8HYlKLTqYzU80%26fbclid%3DPAZXh0bgNhZW0CMTEAAabU5ioT0xsa86KEnVZdtUNPEEDvXqCRQVgecpLaBVv4zbB2Rdx_puLVBW0_aem_AeJmpdYGe8gHDC71okvd1aqYgX7mS1jNTkEBKGi8a5zsIvnAj42-ZhhnkCxDESS1HyvJYanamlC_DUFEbYR_BYqU&e=AT0Ni8WA80QPQaJ7PRyemeFhygRqZLEXUBTJ5e7WWjdB-wyjU_pgE5bcSi-Cr_pOq_-sztJG6qjrVL8N5XbhKafd42dWMV9ox0jmHRE' ,
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
