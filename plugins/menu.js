@@ -28,7 +28,7 @@ const defaultMenu = {
 ⏰ *Uptime:* %muptime  
 ┗━━━━━━━━━━⬣
 %readmore
-  ≡ *L 9 A I D E| M E N U*
+  ≡ * bubi | M E N U*
 `.trimStart(),
   header: '┏━━⊜ *_%category_* ',
   body: '┃⋄ %cmd %isdiamond %isPremium',
