@@ -21,7 +21,7 @@ let tags = {
   'uploader':'‎‎ رفع الملفات‎',
 }
 const defaultMenu = {
-  before: ` السلام عليكم مرحبا بك لي احسن بوت يعمل بي الدكاء الصطناعي👋. 
+  before: ` السلام عليكم 👋. 
 
 ┏━━ salam  *%name*
 👥 *Total user:* %totalreg 
@@ -137,9 +137,9 @@ text: text,
 contextInfo: {
 externalAdReply: {
 title: 'L9AIDE BOT🤖',
-body: " 24/4/2024 ابتكر في",
+body: " bot watssap",
 thumbnailUrl:'https://telegra.ph/file/c9139a996a8ef903572fc.jpg',
-sourceUrl: 'L_9AIDE BOT',
+sourceUrl: '    L_9AIDE BOT' ,
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
