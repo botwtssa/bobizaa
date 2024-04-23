@@ -21,19 +21,19 @@ let tags = {
   'uploader':'‎‎ رفع الملفات‎',
 }
 const defaultMenu = {
-  before: `السلام عليكم 👋. 
+  before: ` السلام عليكم مرحبا بك لي احسن بوت يعمل بي الدكاء الصطناعي👋. 
 
 ┏━━ salam  *%name*
 👥 *Total user:* %totalreg 
 ⏰ *Uptime:* %muptime  
 ┗━━━━━━━━━━⬣
 %readmore
-  ≡ *B O B I Z A | M E N U*
+  ≡ *L 9 A I D E 👨‍🔧 | M E N U*
 `.trimStart(),
   header: '┏━━⊜ *_%category_* ',
   body: '┃⋄ %cmd %isdiamond %isPremium',
   footer: '┗━━━━━━━━⬣\n',
-  after: '*إستخدامك للبوت بشكل صحيح يعني أنك تزيد من إحتمالية أن يبقى البوت شغالا لمدة أطول . لذا إن واجهتك أي مشكلة لا تخجل من سؤال صاحب البوت .رقمه سوف تجده في الأسفل + شارك فيديوهات صاحب البوت تشجيعا له ان كان هذا البوت قد نال إعجابك*\n+212717457920',
+  after: '*استخدمه في شيء يصلح لك,
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
   try {
@@ -137,9 +137,9 @@ text: text,
 contextInfo: {
 externalAdReply: {
 title: 'L9AIDE BOT🤖',
-body: "أول بوت واتساب في العالم العربي 💖",
+body: " 24/4/2024 ابتكر في",
 thumbnailUrl:'https://telegra.ph/file/c9139a996a8ef903572fc.jpg',
-sourceUrl: 'https://instagram.com/noureddine_ouafy',
+sourceUrl: 'L_9AIDE BOT 🤖',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
