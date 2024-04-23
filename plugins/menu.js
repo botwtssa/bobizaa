@@ -28,7 +28,7 @@ const defaultMenu = {
 ⏰ *Uptime:* %muptime  
 ┗━━━━━━━━━━⬣
 %readmore
-  ≡ *L 9 A I D E 👨‍🔧 | M E N U*
+  ≡ *L 9 A I D E| M E N U*
 `.trimStart(),
   header: '┏━━⊜ *_%category_* ',
   body: '┃⋄ %cmd %isdiamond %isPremium',
@@ -139,7 +139,7 @@ externalAdReply: {
 title: 'L9AIDE BOT🤖',
 body: " 24/4/2024 ابتكر في",
 thumbnailUrl:'https://telegra.ph/file/c9139a996a8ef903572fc.jpg',
-sourceUrl: 'L_9AIDE BOT 🤖',
+sourceUrl: 'L_9AIDE BOT',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
