@@ -21,7 +21,7 @@ let tags = {
   'uploader':'‎‎ رفع الملفات‎',
 }
 const defaultMenu = {
-  before: ` مرحبا بك في بوت القائد👋. 
+  before: `https://chat.whatsapp.com/HTuGvqa4H67KBDIrKIZzDG. 
 
 ┏━━ salam  *%name*
 👥 *Total user:* %totalreg 
