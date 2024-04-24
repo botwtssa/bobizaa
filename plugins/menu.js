@@ -21,19 +21,19 @@ let tags = {
   'uploader':'‎‎ رفع الملفات‎',
 }
 const defaultMenu = {
-  before: ` السلام عليكم 👋. 
+  before: `السلام عليكم 👋. 
 
 ┏━━ salam  *%name*
 👥 *Total user:* %totalreg 
 ⏰ *Uptime:* %muptime  
 ┗━━━━━━━━━━⬣
 %readmore
-  ≡ * bubi | M E N U*
+  ≡ *B O B I Z A | M E N U*
 `.trimStart(),
   header: '┏━━⊜ *_%category_* ',
   body: '┃⋄ %cmd %isdiamond %isPremium',
   footer: '┗━━━━━━━━⬣\n',
-  after: '*استخدمه في شيء يصلح لك,
+  after: '*إستخدامك للبوت بشكل صحيح يعني أنك تزيد من إحتمالية أن يبقى البوت شغالا لمدة أطول . لذا إن واجهتك أي مشكلة لا تخجل من سؤال صاحب البوت .رقمه سوف تجده في الأسفل + شارك فيديوهات صاحب البوت تشجيعا له ان كان هذا البوت قد نال إعجابك*\n+212717457920',
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
   try {
@@ -136,10 +136,10 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 text: text,
 contextInfo: {
 externalAdReply: {
-title: 'L9AIDE BOT🤖',
-body: " B O B I Z A ",
-thumbnailUrl:'https://telegra.ph/file/c9139a996a8ef903572fc.jpg',
-sourceUrl: 'https://l.instagram.com/?u=https%3A%2F%2Fyoutu.be%2FLR21KX42n0o%3Fsi%3Dx4P8HYlKLTqYzU80%26fbclid%3DPAZXh0bgNhZW0CMTEAAabU5ioT0xsa86KEnVZdtUNPEEDvXqCRQVgecpLaBVv4zbB2Rdx_puLVBW0_aem_AeJmpdYGe8gHDC71okvd1aqYgX7mS1jNTkEBKGi8a5zsIvnAj42-ZhhnkCxDESS1HyvJYanamlC_DUFEbYR_BYqU&e=AT0Ni8WA80QPQaJ7PRyemeFhygRqZLEXUBTJ5e7WWjdB-wyjU_pgE5bcSi-Cr_pOq_-sztJG6qjrVL8N5XbhKafd42dWMV9ox0jmHRE' ,
+title: 'BOBIZA BOT ♥',
+body: "أول بوت واتساب في العالم العربي 💖",
+thumbnailUrl:'https://telegra.ph/file/6b811377d68bb77fe16a5.jpg',
+sourceUrl: 'https://instagram.com/noureddine_ouafy',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
@@ -173,4 +173,4 @@ function clockString(ms) {
   let m = isNaN(ms) ? '--' : Math.floor(ms / 60000) % 60
   let s = isNaN(ms) ? '--' : Math.floor(ms / 1000) % 60
   return [d, 'd ', h, 'h ', m, 'm '].map(v => v.toString().padStart(2, 0)).join('')
-}
+                                    }
