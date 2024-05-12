@@ -136,9 +136,9 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 text: text,
 contextInfo: {
 externalAdReply: {
-title: 'L9AIDE BOT 🤖',
+title: 'دكاء إصطناعي ',
 body: "أول بوت واتساب في العالم العربي 💖",
-thumbnailUrl:'https://telegra.ph/file/c9139a996a8ef903572fc.jpg',
+thumbnailUrl:'https://telegra.ph/file/64f30b345fcb579d8de49.jpg',
 sourceUrl: 'https://www.instagram.com/simo.laamoum9/?utm_source=qr&r=nametag',
 mediaType: 1,
 renderLargerThumbnail: true
